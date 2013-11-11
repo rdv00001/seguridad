@@ -1,0 +1,14 @@
+ESQUEMA DE LA DOCUMENTACIÓN:
+- Portada (Título, nombre, e-mail, grupo, etc).
+- Índice de contenidos.
+- Memoria(variable).
+- Conclusiones.
+- Bibliografía:
+	- Libros, apuntes.
+	- Páginas web.
+CALIFICACIÓN (0-10)
+- Presentación.
+- Contenido.
+- Aportaciones.
+- Defensa en clase(opcional).
+FECHA LÍMITE DE ENTREGA!!: 9 de Enero.
